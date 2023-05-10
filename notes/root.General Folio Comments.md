@@ -1,12 +1,19 @@
 ---
 id: aghcx1pcaut6w0avt3yopak
 title: General Observations 
-updated: 1683731658331
+updated: 1683732786779
 created: 1683730564605
 ---
 # FOLIO
 
-_After looking at the folio submissions here are some general comments, please find those that are applicable to you. This was discussed in WK10 Class - S_
+#### _After looking at the folio submissions here are some general comments, please find those that are applicable to you. This was discussed in WK10 Class - S_
+
+
+## Amendments to Brief Requirements 
+> Interactive PDF : **Do no submit videos within the pdf** - upload to Youtube or Instagram. Link to it from the pdf make sure to share a **PUBLIC link**. Include a few frames from the video on the folio. 
+>
+
+-------
 
 ### LEVEL OF DETAIL
 
@@ -75,7 +82,7 @@ _After looking at the folio submissions here are some general comments, please f
 ### ON FONTS
 
 * Keep them consistent.
-* As a guide try 8pt Times New Roman at A5 for the Approximate size / information density, with 10mm margins
+* As a guide try 8pt Times New Roman (the font is just a guide for size) at A5 for the Approximate size / information density, with 10mm margins
 * Do not use 'fancy' heading fonts - neat and consistent.
 
 ### UNDERLAYS
