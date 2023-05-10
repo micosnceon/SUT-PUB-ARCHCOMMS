@@ -1,7 +1,7 @@
 ---
 id: aghcx1pcaut6w0avt3yopak
 title: General Observations 
-updated: 1683731317125
+updated: 1683731658331
 created: 1683730564605
 ---
 # FOLIO
@@ -16,7 +16,7 @@ _After looking at the folio submissions here are some general comments, please f
 
 * #### A myth of boastfulness
 
-      * text text text **gets transported to the stars** text text text text text text **because she was boastful**
+   * text text text **gets transported to the stars** text text text text text text **because she was boastful**
 
 ### REFLECTION
 
