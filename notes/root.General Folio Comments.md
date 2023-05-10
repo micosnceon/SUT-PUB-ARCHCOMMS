@@ -1,7 +1,7 @@
 ---
 id: aghcx1pcaut6w0avt3yopak
 title: General Observations 
-updated: 1683732786779
+updated: 1683733022164
 created: 1683730564605
 ---
 # FOLIO
@@ -13,6 +13,12 @@ created: 1683730564605
 > Interactive PDF : **Do no submit videos within the pdf** - upload to Youtube or Instagram. Link to it from the pdf make sure to share a **PUBLIC link**. Include a few frames from the video on the folio. 
 >
 
+## WK09 Q/A 
+
+1. **Imprint page** example (Inside Class Onedrive) 
+2. **How many pages?**  Quality pages over quantity pages, but don't be afraid to have blank pages for visual rest. Looking for consistency more pages gives more chances for inconsistency.
+3. **Why do we have to upload on Issu?** So that you start becoming aware of your public image.
+4. **Issu page limit 50 page.** If you need more pages feel free to upload in two parts on an abridged version. 
 -------
 
 ### LEVEL OF DETAIL
