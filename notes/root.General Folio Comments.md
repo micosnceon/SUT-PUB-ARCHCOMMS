@@ -1,7 +1,7 @@
 ---
 id: aghcx1pcaut6w0avt3yopak
 title: General Observations 
-updated: 1683733162386
+updated: 1683733381084
 created: 1683730564605
 ---
 # FOLIO
@@ -53,7 +53,7 @@ created: 1683730564605
 
 ### ON IMAGES
 
-* Use a clean background with no corners and no hands
+* Use a clean backgrounds with no corners and no hands. 
 * Level the camera - take the image orthogonally
 * Post process images AND renders to make sure the are consistent with each other and to clear.
 * Remember more images more referencing.....  
