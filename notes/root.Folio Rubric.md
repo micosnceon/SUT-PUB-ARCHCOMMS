@@ -2,9 +2,11 @@
 id: h95131kb99d0yrthikr42mg
 title: Folio Rubric
 desc: ''
-updated: 1684854243091
+updated: 1684854539336
 created: 1684848439362
 ---
+Refer to :  [**Folio Style Guide / General Comments** ](https://github.com/micosnceon/SUT-PUB-ARCHCOMMS/blob/master/notes/root.General%20Folio%20Comments.md)
+
 ## Folio Draft Submission (5PT)
 
 * (P) is Submitted draft 1 AND 2 on time with most of the topics covered till date
@@ -23,10 +25,7 @@ created: 1684848439362
 
   * Folio covered **all the required** :
   * _Follow the contents page i.e (1) Cover Page (2) Imprint page..._
-      ![[root.Folio Style Guide #content-pages]]
-
-      [[root.Folio Style Guide]]
-  * Materials 
+     
   * Images
   * Drawings
   * Text provided to **summarise / support** a majority of the sections.
@@ -37,18 +36,12 @@ created: 1684848439362
   * Folio demonstrated **Visual Hierarchy** 
   * White space was used to create this visual hierarchy 
   * Language was clear and simple
-    
-    ![[root.Folio Style Guide #level-of-detail]]
-    ![[root.Folio Style Guide #white-space-is-good]]
-    ![[root.Folio Style Guide #text-content---no-waffle]]
-    
-   
+
 * ### Distinction. Satisfied (C) and :
 
   * Page layouts were consistent throughout the folio
   * Text was structure and easy to follow (described the design process)
-    ![[root.Folio Style Guide #reflection]]
-
+ 
 * ### High Distinction. Satisfied (D) and :
 
   * Folio conveyed the systematic and rigorous approach to documentation of the design project.

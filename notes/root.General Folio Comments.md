@@ -21,6 +21,9 @@ created: 1683730564605
 4. **Issu page limit 50 page.** If you need more pages feel free to upload in two parts or an abridged version. 
 
 -------
+### Text Content - NO WAFFLE 
+
+* The language should be **clear** and **concise**; do not use more words than necessary, do not use complicated words for the sake of it or convoluted / long sentences. 
 
 ### LEVEL OF DETAIL
 
@@ -64,7 +67,9 @@ created: 1683730564605
 
 ### CONTENT PAGES
 
-* Follow the exact list from page 3/16 Folio V2 pdf. So it is easy for tutors to give you marks. Don't use week numbers etc...
+* Follow the exact list from page 3/16 Folio V2 pdf (
+ _Follow the contents page i.e (1) Cover Page (2) Imprint page..._). So it is easy for tutors to give you marks. Don't use week numbers etc... 
+* This should be used to ensure all material is covered.
 
 ### PLEASE USE A GRID
 
