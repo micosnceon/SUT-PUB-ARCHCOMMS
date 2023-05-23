@@ -2,7 +2,7 @@
 id: h95131kb99d0yrthikr42mg
 title: Folio Rubric
 desc: ''
-updated: 1684853603057
+updated: 1684854243091
 created: 1684848439362
 ---
 ## Folio Draft Submission (5PT)
@@ -24,6 +24,8 @@ created: 1684848439362
   * Folio covered **all the required** :
   * _Follow the contents page i.e (1) Cover Page (2) Imprint page..._
       ![[root.Folio Style Guide #content-pages]]
+
+      [[root.Folio Style Guide]]
   * Materials 
   * Images
   * Drawings
